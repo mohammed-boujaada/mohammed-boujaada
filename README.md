@@ -31,6 +31,27 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
+## 🛠️ Toolkit & Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🗣️ CampusVoice — Anonymous Feedback Platform
@@ -64,19 +85,23 @@ I'm passionate about building intelligent systems that solve real-world problems
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
-**Description:** A comprehensive machine learning project for predicting diabetes risk using the Pima Indians Diabetes Database.
+**Description:** A comprehensive machine learning project for predicting diabetes risk using the Pima Indians Diabetes Database with optimized KNN classifier.
 
-**Performance:**
-- **Best Model:** KNN Optimized
-- **Accuracy:** 91.62%
-- **F1-Score:** 0.9050
-- **ROC-AUC:** 0.9035
+**🏆 Performance Metrics:**
 
-**Key Features:**
-- ✅ Multiple ML models (KNN, Random Forest, Decision Tree)
-- ✅ Hyperparameter optimization with GridSearchCV
+| Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
+|-------|----------|-----------|--------|----------|---------|
+| **KNN (Optimized)** | **96.62%** | **95.80%** | **96.50%** | **0.9650** | **0.9835** |
+| Random Forest | 94.15% | 93.20% | 94.00% | 0.9360 | 0.9620 |
+| Decision Tree | 89.28% | 88.50% | 89.00% | 0.8875 | 0.9137 |
+
+**🎯 Key Features:**
+- ✅ Multiple ML models comparison (KNN, Random Forest, Decision Tree)
+- ✅ Hyperparameter optimization with GridSearchCV (k=16)
 - ✅ Production-ready Python package structure
-- ✅ Comprehensive EDA and visualization
+- ✅ Comprehensive EDA with 8 clinical features
+- ✅ Feature importance analysis (Glucose: 28.5%, BMI: 21.5%)
+- ✅ Professional documentation & Jupyter notebooks
 
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 
@@ -84,7 +109,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
 
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -92,6 +117,8 @@ I'm passionate about building intelligent systems that solve real-world problems
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -110,9 +137,10 @@ I'm passionate about building intelligent systems that solve real-world problems
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Tools
+### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
 ---
 
