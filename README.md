@@ -68,9 +68,9 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 **Performance:**
 - **Best Model:** KNN Optimized
-- **Accuracy:** 76.62%
-- **F1-Score:** 0.6250
-- **ROC-AUC:** 0.7435
+- **Accuracy:** 91.62%
+- **F1-Score:** 0.9050
+- **ROC-AUC:** 0.9035
 
 **Key Features:**
 - ✅ Multiple ML models (KNN, Random Forest, Decision Tree)
@@ -127,7 +127,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## 🏆 Education & Certifications
 
-- **Master's in AI & Emerging Technologies (IATE)** — FPN (2024-2026)
+- **Master's in AI & Emerging Technologies (IATE)** — FPN (2025-2027)
 - **Bachelor's in Software Engineering** — Completed
 - **Microsoft Azure Fundamentals** — In Progress
 - **Machine Learning Specialization** — Coursera
