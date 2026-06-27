@@ -1,5 +1,6 @@
+<!-- Bannière principale -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=250&section=header&text=Mohammed%20Boujaada&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Cloud%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Mohammed%20Boujaada&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Cloud%20Computing%20Engineer&descAlignY=52&descSize=20&descColor=ffffff" />
 </div>
 
 ### 🎓 Master's Student in Artificial Intelligence & Emerging Technologies (IATE)
