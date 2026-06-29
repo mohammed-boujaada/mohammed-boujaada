@@ -29,8 +29,6 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-
-
 ## 🛠️ My Toolkit & Technologies
 
 <div align="center">
@@ -54,9 +52,31 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
----
-
 ## 🚀 Featured Projects
+
+### 🎓 SÉOA — Expert Academic Orientation System
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-0078D7?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expert%20System-IA%20Symbolique-orange?style=for-the-badge" />
+</div>
+
+**Description:** An expert system for academic orientation and student support, implementing a **forward chaining inference engine** to evaluate academic and behavioral profiles and recommend personalized guidance.
+
+**🎯 Key Features:**
+- ✅ Forward chaining inference engine with 4-phase reasoning (Motivation → Potential → Orientation → CS Diagnostic)
+- ✅ Complete student data input (grades, attendance, study hours)
+- ✅ Detailed CS diagnostic (Algorithms, Databases, Networks, Development)
+- ✅ Dynamic theme switching (Light/Dark mode)
+- ✅ Multi-format report export (HTML, TXT, JSON)
+- ✅ Professional Tkinter GUI with intuitive interface
+
+**Tech Stack:** Python, Tkinter, Dataclasses, Enums, Object-Oriented Programming
+
+**Status:** ✅ Completed
+
+---
 
 ### 🗣️ CampusVoice — Anonymous Feedback Platform
 
@@ -159,8 +179,8 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## 🏆 Education & Certifications
 
-- **Master's in AI & Emerging Technologies (IATE)** — FPN (2025-2027)
-- **Bachelor's in Software Engineering** — Completed
+- **Master's in AI & Emerging Technologies (IATE)** — FPN Nador (2025-2027)
+- **Bachelor's in Software Engineering** — FST Errachidia (Completed)
 - **Microsoft Azure Fundamentals** — In Progress
 - **Machine Learning Specialization** — Coursera
 
