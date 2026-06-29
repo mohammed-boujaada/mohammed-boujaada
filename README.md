@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Master's student in Artificial Intelligence and Emerging Technologies (IATE)** at FPN, Morocco, with a strong background in **Software Engineering** (Bachelor's degree).
+I'm a **Master's student in Artificial Intelligence and Emerging Technologies (IATE)** at FPN, Morocco, with a strong background in **Software Engineering** (Bachelor's degree) at FST Errachidia.
 
 **My focus areas:**
 - 🤖 Machine Learning & Deep Learning
