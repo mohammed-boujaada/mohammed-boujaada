@@ -97,7 +97,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 **Tech Stack:** Python, Flask, Azure App Service, SQLite
 
-**Status:** 🚧 In Development
+**Status:** ✅ Completed
 
 ---
 
